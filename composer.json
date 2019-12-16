@@ -3,6 +3,7 @@
     "description": "this is my first php composer library test",
     "type": "library",
     "license": "GPL-3.0+",
+    "version": "1",
     "authors": [
         {
             "name": "develhoper",
