@@ -8,5 +8,10 @@
             "email": "develhoper.0@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Libre":"src/"
+        }
+    }
 }
