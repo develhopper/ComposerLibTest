@@ -2,7 +2,7 @@
     "name": "develhopper/first-lib",
     "description": "this is my first php composer library test",
     "type": "library",
-    "license": "GPL",
+    "license": "GPL-3.0+",
     "authors": [
         {
             "name": "develhoper",
@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
-        "psr-4": {
+        "psr-0": {
             "Libre":"src/"
         }
     }
